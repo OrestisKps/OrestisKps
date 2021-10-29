@@ -12,7 +12,7 @@ The topic of medical decision making is of particular interest to me.
 In a recent field-experiment, I explore different channels for motivating people in high-risk group to vaccinate for the seasonal influenza and observe how their subjective-risk perceptions influence this decision.
 
 ### Peer-reviewed publications 🧾
-- _An inquiry into the nature and causes of the Description - Experience gap, Journal of Risk and Uncertainty_ (forthcoming; [link to working paper](https://www.nottingham.ac.uk/cedex/documents/papers/cedex-discussion-paper-2019-15.pdf)
+- _An inquiry into the nature and causes of the Description - Experience gap, Journal of Risk and Uncertainty_ (Journal of Risk and Uncertainty, forthcoming; [link to working paper](https://www.nottingham.ac.uk/cedex/documents/papers/cedex-discussion-paper-2019-15.pdf)
 - _Limits of the social-benefit motive among high-risk patients: a field experiment on influenza vaccination behaviour_, [BMC-Public Health (2020)](https://link.springer.com/epdf/10.1186/s12889-020-8246-3?author_access_token=TlJOz_z2bbCgDBkGVLdqOm_BpE1tBhCbnbw3BuzI2RNcwGVBdVq_KelKAmH5RYad41SqJfFI8fH1TRB2L1Or0CpbwedEsCVn0WTjpCPgU5e_06E_Wti_J-Th7Ep1wdo5BaBE7jNecd7mGcAacT7lBA%3D%3D)
 - _The role of information search and its influence on risk preferences_, [Theory and Decision (2018)](https://link.springer.com/article/10.1007/s11238-017-9623-y)
 
